@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mijdax
+- 👀 I’m interested in developing cool stuff
+- 🌱 I’m currently learning godot, azure, nodejs, mongodb and web-components
